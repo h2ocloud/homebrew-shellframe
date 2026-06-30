@@ -2,8 +2,8 @@ class Shellframe < Formula
   desc "Multi-tab GUI terminal wrapper with clipboard image paste for AI CLIs"
   homepage "https://github.com/h2ocloud/shellframe"
   url "https://github.com/h2ocloud/shellframe.git",
-      tag:      "v0.3.0",
-      revision: "124375d"
+      tag:      "v0.22.0",
+      revision: "f9ca94d"
   license "MIT"
   head "https://github.com/h2ocloud/shellframe.git", branch: "main"
 
